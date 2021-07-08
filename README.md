@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Gabriel
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning Front-End and Back-End
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning JS, CSS and HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
