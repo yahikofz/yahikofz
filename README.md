@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luis Gabriel
+- 👋 Hi, I’m Luís Gabriel
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning JS, CSS and HTML
 - 💞️ I’m looking to collaborate on ...
