@@ -24,3 +24,8 @@
 ![Snake animation](https://github.com/yahikofz/yahikofz/blob/output/github-contribution-grid-snake.svg)
 
 
+
+# Obrigado pela visita 😄 
+
+<img align="right" alt="Rafa-yoda" src="https://media.tenor.com/images/e6b2472179d9ece5fbe3f94b0d8b6261/tenor.gif">
+
