@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Luís Gabriel
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning JS, CSS and HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <div>
   <a href="https://github.com/yahikofz">
