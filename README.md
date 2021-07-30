@@ -1,5 +1,5 @@
 ## Hi, I’m Luís Gabriel 🙂
-* I’m interested in Front-End 👀
+* I’m interested in Front-end 👀
 * I’m currently learning JS, CSS and HTML 📚
 
 <div>
