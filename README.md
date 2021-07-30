@@ -23,4 +23,4 @@
 
 ![Snake animation](https://github.com/yahikofz/yahikofz/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://www.webcontadores.com" title="contadores de visitas"><img src="https://counter5.stat.ovh/private/webcontadores.php?c=37kw63ypkn6u5ghsqjutlcymeq5zwlc3" border="0" title="contadores de visitas" alt="contadores de visitas"></a>
+<a href="https://www.webcontadores.com" title="contador de visitas em flash"><img src="https://counter5.stat.ovh/private/webcontadores.php?c=wx7wqnez472wf8cngewbhyb88asgabk2" border="0" title="contador de visitas em flash" alt="contador de visitas em flash"></a>
