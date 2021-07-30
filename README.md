@@ -1,6 +1,6 @@
-# Hi, I’m Luís Gabriel 🙂
-## I’m interested in Front-end 👀
-## I’m currently learning 📚
+# Hi, I’m Luís Gabriel🙂
+## I’m interested in Front-end👀
+## I’m currently learning📚
  * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -25,7 +25,7 @@
 
 
 
-# Obrigado pela visita! 😄 
+# Obrigado pela visita!😄 
 
 <img align="right" alt="Rafa-yoda" src="https://media.tenor.com/images/e6b2472179d9ece5fbe3f94b0d8b6261/tenor.gif">
 
