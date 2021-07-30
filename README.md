@@ -21,4 +21,4 @@
 
 ##
 
-
+![Snake animation](https://github.com/yahikofz/yahikofz/blob/output/github-contribution-grid-snake.svg)
